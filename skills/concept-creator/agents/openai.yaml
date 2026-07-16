@@ -1,0 +1,4 @@
+interface:
+  display_name: "Concept Creator"
+  short_description: "Plan focused content concepts"
+  default_prompt: "Use $concept-creator to turn this content theme into a focused concept with topics."

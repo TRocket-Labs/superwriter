@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prose Cleaner"
+  short_description: "Clean and tighten prose"
+  default_prompt: "Use $prose-cleaner to clean this draft while preserving my voice."
